@@ -1,4 +1,4 @@
-make a test2
+make a test
 
 second commit
 
