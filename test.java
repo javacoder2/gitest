@@ -1,4 +1,4 @@
-make dev
+make dev Update
 
 second commit
 
