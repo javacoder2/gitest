@@ -1,4 +1,4 @@
-make dev Update
+make a test
 
 second commit
 
